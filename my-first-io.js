@@ -1,4 +1,4 @@
-// Exercise: MY FIRST I/O!
+// Exercise: "MY FIRST I/O!"
 
 let fs = require('fs');
 
