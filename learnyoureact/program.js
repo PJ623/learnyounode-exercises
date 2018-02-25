@@ -1,5 +1,6 @@
 // Exercise 1 of 11: HELLO_REACT
 // Exercise 2 of 11: COMPONENTS
+// Exercise 3 of 11: PROPS
 
 // Pretty close to copy-paste code from the instructions.
 
