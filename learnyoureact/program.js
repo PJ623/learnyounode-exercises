@@ -1,4 +1,5 @@
 // Exercise 1 of 11: HELLO_REACT
+// Exercise 2 of 11: COMPONENTS
 
 // Pretty close to copy-paste code from the instructions.
 
@@ -17,5 +18,5 @@ app.use("/", (req, res) => {
 });
 
 app.listen(app.get("port"), () => {
-    console.log("Server running on port" + app.get("port") + ". Press CTRL+C to stop.");
+    console.log("Server running on port " + app.get("port") + ". Press CTRL+C to stop.");
 });
